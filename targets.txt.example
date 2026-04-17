@@ -1,0 +1,4 @@
+# Example targets for SCOPE PROBES and EAPOL STEAL
+# One ESSID per line
+guestnet
+OfficeNet

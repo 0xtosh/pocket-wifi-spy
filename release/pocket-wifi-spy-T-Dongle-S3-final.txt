@@ -1,0 +1,9 @@
+Environment: T-Dongle-S3
+Created: 20260417-202628
+Merged image: pocket-wifi-spy-T-Dongle-S3-20260417-202628-merged.bin
+Bootloader: 0x0000 -> bootloader.bin
+Partitions: 0x8000 -> partitions.bin
+Firmware: 0x10000 -> firmware.bin
+Flash mode: dio
+Flash frequency: 80m
+Flash size: 16MB
